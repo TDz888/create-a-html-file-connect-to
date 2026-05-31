@@ -1,0 +1,1 @@
+Tôi cần đọc các file đó trước khi sửa.
